@@ -1,7 +1,8 @@
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=250&section=header&text=Hello%20World&fontSize=80&animation=fadeIn&fontAlignY=35&desc=I%20am%20a%20Full%20Stack%20Instructor%20&%20Developer&descAlignY=55&descAlign=50" alt="Header" width="100%"/>
+  <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=250&section=header&text=Hello%20World&fontSize=80&animation=fadeIn&fontAlignY=35&desc=I%20am%20a%20Full%20Stack%20Instructor%20&%20Developer&descAlignY=55&descAlign=50&fontColor=ffffff" alt="Header" width="100%"/>
 </div>
+
 
 ### <div align="center">Hi there, I'm Gaurav Kaushal! 👋</div>
 
