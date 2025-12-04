@@ -8,10 +8,10 @@
   **Full Stack Instructor | Cloud Enthusiast | AI Explorer**
   
   <br/>
-  <span>(Coming soon) </span>
+  
   <a href="LINK_TO_YOUR_RESUME_PDF"> 
     <img src="https://img.shields.io/badge/View_Resume-FF5722?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Resume"/>
-  </a>
+  </a><span>(Coming soon) </span>
   <br/>
   <a href="https://linkedin.com/in/gauravkkaushal">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
