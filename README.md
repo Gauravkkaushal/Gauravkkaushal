@@ -60,5 +60,5 @@ I am a passionate **Full Stack Instructor** dedicated to simplifying complex cod
 <div align="center">
   <br/>
   <b>Let's Connect!</b><br/>
-  <a href="https://linkedin.com/in/gauravkkaushal">Find me on LinkedIn</a> | <a href="https://drive.google.com/file/d/1Bsx_AEY7ZzFyLRcWoPC-eVlvDu9doAfZ/view?usp=sharing">Download Resume(coming soon)</a>
+  <a href="https://linkedin.com/in/gauravkkaushal">Find me on LinkedIn</a> | <a href="https://drive.google.com/file/d/1Bsx_AEY7ZzFyLRcWoPC-eVlvDu9doAfZ/view?usp=sharing">Download Resume</a>
 </div>
