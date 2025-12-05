@@ -6,7 +6,7 @@
 <div align="center">Hi there, I'm Gaurav Kaushal! 👋</div>
 <div align="center">
   
-  **Full Stack Instructor | Cloud Enthusiast | AI Explorer**
+  **Full Stack Developer | Cloud Enthusiast | AI Explorer**
   
   <br/>
   
