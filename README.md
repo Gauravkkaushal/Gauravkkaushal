@@ -9,14 +9,14 @@
   
   <br/>
   
-  <a href="LINK_TO_YOUR_RESUME_PDF"> 
+  <a href="https://drive.google.com/file/d/1Bsx_AEY7ZzFyLRcWoPC-eVlvDu9doAfZ/view?usp=sharing"> 
     <img src="https://img.shields.io/badge/View_Resume-FF5722?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Resume"/>
-  </a><span>(Coming soon) </span>
-  <br/>
+  </a>
+ 
   <a href="https://linkedin.com/in/gauravkkaushal">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <br/>
+
   <a href="mailto:gaurav457th@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
@@ -60,5 +60,5 @@ I am a passionate **Full Stack Instructor** dedicated to simplifying complex cod
 <div align="center">
   <br/>
   <b>Let's Connect!</b><br/>
-  <a href="https://linkedin.com/in/gauravkkaushal">Find me on LinkedIn</a> | <a href="LINK_TO_YOUR_RESUME_PDF">Download Resume(coming soon)</a>
+  <a href="https://linkedin.com/in/gauravkkaushal">Find me on LinkedIn</a> | <a href="https://drive.google.com/file/d/1Bsx_AEY7ZzFyLRcWoPC-eVlvDu9doAfZ/view?usp=sharing">Download Resume(coming soon)</a>
 </div>
